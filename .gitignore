@@ -1,0 +1,14 @@
+# Auto-generated checkpoint folders (ignore in ALL subdirectories)
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Local data/caches
+**/*.xls
+**/*.xlsx
+**/*.csv
+**/*.json
+**/*.pickle
+**/*.h5
+**/*.pkl
+*.log
+logs/
