@@ -47,4 +47,5 @@
 *torch,*
 *torchvision,*
 *sentence_transformers,*
+*matplotlib,*
 *sklearn*
