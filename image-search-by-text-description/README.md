@@ -1,6 +1,6 @@
 # Поиск изображения по текстовому описанию
 
-<a href="https://colab.research.google.com/drive/1nyhdtFGY4mSlxxiT3-I0ULHHwCrMM7j3?usp=sharing" target="_blank" rel="noopener noreferrer">Открыть проект в Colab</a>
+[Открыть проект в Colab](https://colab.research.google.com/drive/1nyhdtFGY4mSlxxiT3-I0ULHHwCrMM7j3?usp=sharing)
 ## Данные
 
 Была использована выборка данных из сервиса фотохостинга.
@@ -39,12 +39,12 @@
 
 
 ## Используемые библиотеки
-*numpy*
-*pandas*
-*os*
-*re*
-*PIL*
-*torch*
-*torchvision*
-*sentence_transformers*
+*numpy,*
+*pandas,*
+*os,*
+*re,*
+*PIL,*
+*torch,*
+*torchvision,*
+*sentence_transformers,*
 *sklearn*
