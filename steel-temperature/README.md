@@ -64,4 +64,4 @@
 *matplotlib,*
 *seaborn*
 *os,*
-*random,*
+*random*
